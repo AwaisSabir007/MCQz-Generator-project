@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is machine learning?,a: A field of study in artificial intelligence concerned with the development and study of statistical algorithms | b: A field of study in robotics concerned with developing machines that can think for themselves | c: A field of study in biology concerned with studying the behavior of machines | d: A field of study in chemistry concerned with creating new materials,a
+Who coined the term 'machine learning'?,a: Alan Turing | b: Donald Hebb | c: Arthur Samuel | d: Tom M. Mitchell,c
+What is the main objective of modern-day machine learning?,a: To achieve artificial intelligence | b: To tackle solvable problems of a practical nature | c: To focus on symbolic approaches inherited from AI | d: To use expert systems for data analysis,b
+What is the relationship between machine learning and data compression?,a: They are unrelated fields | b: Machine learning can be used for optimal data compression | c: Data compression cannot be improved using machine learning | d: Data compression is only used for image processing,b
+What is k-means clustering used for in data compression?,a: To increase the size of data files | b: To reduce the size of data files | c: To create random clusters in data | d: To compress audio files,b
